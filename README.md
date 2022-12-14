@@ -14,4 +14,4 @@ while문을 사용해 DB에 이미 저장되어있는 데이터를 차례대로 
 ![image](https://user-images.githubusercontent.com/97486359/207214712-afa0d6fe-1bb8-484e-baad-10592fe2e0e9.png)
 ![image](https://user-images.githubusercontent.com/97486359/207215057-d5058fad-4a7c-4e8f-bf2f-4d32583b8c02.png)  
 ![image](https://user-images.githubusercontent.com/97486359/207214952-9f52e487-539a-4c5a-b12f-3593c63aaf5e.png)   
-회원번호, 수강료의 값은 회원명, 강의명에 value에 저장하고 value에 있는 값을 가지고가서 회원번호, 수강료의 값에 저장하는 코드이다.
+회원번호, 수강료의 값은 회원명, 강의명에 value 값에 저장하고 value에 있는 값을 가지고가서 회원번호, 수강료의 값에 저장하는 코드이다.
