@@ -8,13 +8,14 @@ while문을 사용해 DB에 이미 저장되어있는 데이터를 차례대로 
 
 ![image](https://user-images.githubusercontent.com/97486359/207215154-0db74110-a96d-4f8b-9333-df17e687cbf7.png)  
 ![image](https://user-images.githubusercontent.com/97486359/207215183-870bf14d-1cf2-4004-b891-05fc360a6475.png)  
-요휴성 검사하는 코드이다. null
+요휴성 검사하는 코드입니다 오류를 방지하기위해 드롭다운을 사용하는 name에는 ex)document.data.c_name.value==none처럼 한다
 
 ![image](https://user-images.githubusercontent.com/97486359/207214355-c2f7537a-d3a6-4088-a186-8ec03b552219.png)   
 ![image](https://user-images.githubusercontent.com/97486359/207214712-afa0d6fe-1bb8-484e-baad-10592fe2e0e9.png)
 ![image](https://user-images.githubusercontent.com/97486359/207215057-d5058fad-4a7c-4e8f-bf2f-4d32583b8c02.png)  
+회원명의 value값을 회원번호의 값으로 저장하고 vDisplay함수를 이용해 회원명의 value값을 가져와서 회원명의 value값을 회원번호에 저장하는 코드입니다.
 ![image](https://user-images.githubusercontent.com/97486359/207214952-9f52e487-539a-4c5a-b12f-3593c63aaf5e.png)   
-회원번호, 수강료의 값은 회원명, 강의명에 value 값에 저장하고 value에 있는 값을 가지고가서 회원번호, 수강료를 가져오고 회원번호의 1번째 값이 2이면 50% 나눠서 수상료에 저장하는  저장하는 코드입니다.
+강의명의 value값을 강사코드로의 값으로 저장하고 calTuition함수를 이용해 강사명의 value값을 가져와서 if문을 사용해 강사명의 value값에 맞는 강사코드를 찾아 변수 수강료에 알맞은 금액을 저장하고, 만약 회원번호의 1번째 값이 2이면 50% 나눠서 수강료에 저장하는 코드입니다.
 
 ## join_p
 
