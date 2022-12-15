@@ -1,7 +1,7 @@
 # golf
 ## list
 ![image](https://user-images.githubusercontent.com/97486359/207213708-ce581a31-440f-4148-ad0c-07c2559d32d1.png)  
-while문을 사용해 DB에 이미 저장되어있는 데이터를 차례대로 가져온다  
+while문을 사용해 DB에 이미 저장되어있는 데이터를 차례대로 가져옵니다. 
   
 ![image](https://user-images.githubusercontent.com/97486359/207213991-10ae1053-3429-4d41-a3ba-552e055440fb.png)
 ## join
@@ -14,4 +14,9 @@ while문을 사용해 DB에 이미 저장되어있는 데이터를 차례대로 
 ![image](https://user-images.githubusercontent.com/97486359/207214712-afa0d6fe-1bb8-484e-baad-10592fe2e0e9.png)
 ![image](https://user-images.githubusercontent.com/97486359/207215057-d5058fad-4a7c-4e8f-bf2f-4d32583b8c02.png)  
 ![image](https://user-images.githubusercontent.com/97486359/207214952-9f52e487-539a-4c5a-b12f-3593c63aaf5e.png)   
-회원번호, 수강료의 값은 회원명, 강의명에 value 값에 저장하고 value에 있는 값을 가지고가서 회원번호, 수강료의 값에 저장하는 코드이다.
+회원번호, 수강료의 값은 회원명, 강의명에 value 값에 저장하고 value에 있는 값을 가지고가서 회원번호, 수강료를 가져오고 회원번호의 1번째 값이 2이면 50% 나눠서 수상료에 저장하는  저장하는 코드입니다.
+
+## join_p
+
+![image](https://user-images.githubusercontent.com/97486359/207753447-057184af-9dd0-4208-aebd-30cc1225936f.png)  
+join에 있는 name속성에 있는 값들을 가져와서 DB에 insert문을 이용해 저장하는 문장입니다.
