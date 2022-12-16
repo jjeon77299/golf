@@ -13,7 +13,7 @@ while문을 사용해 DB에 이미 저장되어있는 데이터를 차례대로 
 ![image](https://user-images.githubusercontent.com/97486359/207214355-c2f7537a-d3a6-4088-a186-8ec03b552219.png)   
 ![image](https://user-images.githubusercontent.com/97486359/207214712-afa0d6fe-1bb8-484e-baad-10592fe2e0e9.png)
 ![image](https://user-images.githubusercontent.com/97486359/207215057-d5058fad-4a7c-4e8f-bf2f-4d32583b8c02.png)  
-회원명의 value값을 회원번호의 값으로 저장하고 vDisplay함수를 이용해 회원명의 value값을 가져와서 회원명의 value값을 회원번호에 저장하는 코드입니다.
+회원명의 value값을 회원번호의 값으로 저장하고 vDisplay함수를 이용해 회원명의 value값을 가져와서 회원명의 value값을 회원번호에 저장하는 코드입니다.  
 ![image](https://user-images.githubusercontent.com/97486359/207214952-9f52e487-539a-4c5a-b12f-3593c63aaf5e.png)   
 강의명의 value값을 강사코드로의 값으로 저장하고 calTuition함수를 이용해 강사명의 value값을 가져와서 if문을 사용해 강사명의 value값에 맞는 강사코드를 찾아 변수 수강료에 알맞은 금액을 저장하고, 만약 회원번호의 1번째 값이 2이면 50% 나눠서 수강료에 저장하는 코드입니다.
 
