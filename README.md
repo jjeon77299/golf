@@ -24,6 +24,7 @@ join에 있는 value값들을 가져와서 DB에 insert문을 이용해 DB에 �
 
 ## 회원정보조회
 
+![image](https://user-images.githubusercontent.com/97486359/208015129-f41e7839-ec58-4a28-9656-1263daf93eef.png)
 ![image](https://user-images.githubusercontent.com/97486359/208014377-cc817ad8-f9a5-49dc-9293-423f5d8a2b5f.png)  
 tbl_class_202201과 tbl_member_202201테이블에 있는 회원번호와 tbl_class_202201과 tbl_teacher_202201에 강사코드를 조인해서 테이블을 만드는 쿼리문이다.  
 테이블은 while문을 사용해 DB에 이미 저장되어있는 데이터를 차례대로 가져옵니다. 
@@ -31,5 +32,6 @@ tbl_class_202201과 tbl_member_202201테이블에 있는 회원번호와 tbl_cla
 
 ## 강사매출현황
 
-![image](https://user-images.githubusercontent.com/97486359/208014702-1ed741c7-16c7-4e42-9ba4-3051264baa2a.png)
+![image](https://user-images.githubusercontent.com/97486359/208015100-e677e3ec-7446-4835-8bf4-7a188283f1ba.png)  
+![image](https://user-images.githubusercontent.com/97486359/208014702-1ed741c7-16c7-4e42-9ba4-3051264baa2a.png)  
 tbl_class_202201과 tbl_teacher_202201에 강사코드를 조인하고 group by와 sum을 이용해 강사코드, 강의명, 강사명과 같은 것끼리 합치고 수강료는 다하는 쿼리문이다
